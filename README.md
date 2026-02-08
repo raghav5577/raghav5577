@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Raghav 
 
+🚀 Developer | Problem Solver | Tech Explorer  
 <!--
 **raghav5577/raghav5577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
