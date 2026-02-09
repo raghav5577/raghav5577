@@ -26,9 +26,9 @@ CSE student with intrest in Development and problem solving
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=raghav5577&hide_border=false
-" />
+  <img src="https://streak-stats.demolab.com?user=raghav5577" />
 </p>
+
 
 <!--
 **raghav5577/raghav5577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
