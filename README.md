@@ -20,11 +20,11 @@ CSE student with intrest in Development and problem solving
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge)
 
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 ![Render](https://img.shields.io/badge/Render-black?style=for-the-badge)
 ![Postgres](https://img.shields.io/badge/Postgres-black?style=for-the-badge&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
@@ -54,7 +54,7 @@ CSE student with intrest in Development and problem solving
 </a>
 
 </p>
-##
+
 <p>
   <img src="https://streak-stats.demolab.com?user=raghav5577" />
 </p>
