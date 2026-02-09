@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Raghav 
 
-CSE student with intrest in Development and problem solving  
+CSE student with interest in Development and problem solving  
 
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
