@@ -55,11 +55,12 @@ CSE student with interest in Development and problem solving
 
 </p>
 
-<p>
+<!-- <p>
   <img src="https://streak-stats.demolab.com?user=raghav5577" />
-</p>
+</p> -->
 
-
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghav5577&" alt="raghav5577" /></p> -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=raghav5577)](https://git.io/streak-stats)
 <!--
 **raghav5577/raghav5577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
