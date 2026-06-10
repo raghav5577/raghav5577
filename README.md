@@ -59,9 +59,28 @@ CSE student with interest in Development and problem solving
   <img src="https://streak-stats.demolab.com?user=raghav5577" />
 </p> -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=raghav5577)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=raghav5577)](https://git.io/streak-stats)
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghav5577&show_icons=true&locale=en&layout=compact" alt="raghav5577" /></p>
+<!--[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=raghav5577)](https://git.io/streak-stats)
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghav5577&show_icons=true&locale=en&layout=compact" alt="raghav5577" /></p>-->
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=raghav5577&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav5577&layout=compact&theme=tokyonight" />
+</p>
+
+
 
 <!--
 **raghav5577/raghav5577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
