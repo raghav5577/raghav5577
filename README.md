@@ -72,11 +72,11 @@ CSE student with interest in Development and problem solving
 
 
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=raghav5577&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="left">
   <img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav5577&layout=compact&theme=tokyonight" />
 </p>
 
