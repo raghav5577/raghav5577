@@ -20,18 +20,20 @@ CSE student with interest in Development and problem solving
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge)
 
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/Render-black?style=for-the-badge)
 ![Postgres](https://img.shields.io/badge/Postgres-black?style=for-the-badge&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-black?style=for-the-badge)
 
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva)
-
 
 ## ⚡ You can find me at:
 
