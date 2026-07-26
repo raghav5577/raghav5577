@@ -17,8 +17,8 @@ CSE student with interest in Development and problem solving
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
 
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite&logoColor=003B57)
