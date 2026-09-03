@@ -1,4 +1,4 @@
-7## Hi there 👋 I'm Raghav 
+Hi there 👋 I'm Raghav 
 
 CSE student with interest in Development and problem solving  
 
